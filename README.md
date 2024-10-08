@@ -1,4 +1,3 @@
-```markdown
 # Event Management System - Backend
 
 ## Overview
